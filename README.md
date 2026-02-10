@@ -2,6 +2,12 @@
 
 A 2D educational game built with Unity where mathematical equations drop from hooks, and players must match them to the correct "function machines" based on logical conditions.
 
+<a href="https://www.youtube.com/watch?v=NKbL4xvNkYI" target="_blank">
+  <img src="https://img.youtube.com/vi/NKbL4xvNkYI/0.jpg" alt="Demo Video">
+</a>
+
+*Click image to watch demo video*
+
 ## Overview
 
 This educational game teaches mathematical reasoning and quick decision-making. Equations appear on bundles hanging from animated crane hooks. Players select bundles and drag them to function machines that evaluate whether the equation matches a specific condition (equals, greater than, or less than a target value).

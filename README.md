@@ -1,3 +1,5 @@
+> **⚠️ Archived Project (2014)** — This is a historical portfolio piece, not actively maintained. Not recommended for forking or production use.
+
 # Educational Game - Math Learning with Physics (2014)
 
 A 2D educational game built with Unity where mathematical equations drop from hooks, and players must match them to the correct "function machines" based on logical conditions.
